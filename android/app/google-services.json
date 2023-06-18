@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "535460312399",
+    "project_id": "brainhive-48390",
+    "storage_bucket": "brainhive-48390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535460312399:android:ef7400d6fae66a7d70c13a",
+        "android_client_info": {
+          "package_name": "com.example.brainhive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535460312399-iameu0g4as1beqkg5gli6nrtr059r852.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAlOTq5wA5vy5ljHMggeNCHZcgW6fTAZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535460312399-iameu0g4as1beqkg5gli6nrtr059r852.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535460312399-71nb508o7kjg9in21hn1at7pgeinasg0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brainhive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
